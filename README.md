@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<a href="https://app.daily.dev/tanya_darkqueen"><img src="https://api.daily.dev/devcards/v2/z0GqvBTmrpK5t51XC8fJc.png?type=default&r=hj0" width="356" alt="Tatianaఌ's Dev Card"/></a>
+<a href="https://app.daily.dev/MorodanTatiana"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
+
 
 <!--
 **MorodanTatiana/MorodanTatiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
